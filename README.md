@@ -1,4 +1,4 @@
-![ChatGPT Image Jun 18, 2025, 02_56_39 PM](https://github.com/user-attachments/assets/f14484f9-ac18-4c0b-a942-d10fb3311a27)
+![ChatGPT Image Jun 18, 2025, 02_56_39 PM](https://github.com/user-attachments/assets/2f6a549a-6236-4c02-a07e-4744db374da0)
 
 I am an aspiring data analyst with a background in journalism and a master's degree in Data Analytics and Decision Science from RWTH Aachen University, Germany. I am passionate about generating insights from complex data to solve real-world problems. 
 

@@ -11,11 +11,11 @@ I am an aspiring data analyst with a background in journalism and a master's deg
 ## Projects ✨:
 - ### Customer Data Cleaning [↗️](https://github.com/Yogesh-Rajput/Customer-List-Data-Cleaning)
 
-  This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to reduce manual review time, and improve document analysis accuracy using RAG techniques. This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to streamline regulatory compliance, reduce manual review time, and improve document analysis accuracy using cutting-edge Natural Language Processing (NLP) techniques.
+  This project demonstrates a simple yet practical example of data cleaning using Python and pandas library. The dataset contains customer details, which are cleaned and preprocessed to prepare for future marketing or analytics applications. A messy dataset was cleaned and standardized by removing duplicate entries, applying uniform formatting to customer data, and handling missing values. The final output could be used for CRM integration, visualization or similar tasks.
 
-  #### Technologies used 💻 : Python, Jupyter Notebook, LLM, RAG, Fine-tuning, Data engineering, Azure openai embeddings, RAGAS.
+  #### Technologies used 💻: Python, Pandas, Jupyter Notebook
   
-- ### 3-D Bin Packing problem [↗️](https://github.com/Satpute-Aniket/3DPacking)
+- ### Exploratory Data Analysis of Festive Sales [↗️](https://github.com/Yogesh-Rajput/Diwali-Sales-EDA)
 
   ![](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/90uxmh.gif)
 

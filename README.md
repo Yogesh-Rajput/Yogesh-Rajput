@@ -1,4 +1,4 @@
-## Hi there 👋
+### I am an aspiring data analyst with a background in journalism and a post-graduate degree in Data Analytics and Decision Science from RWTH Aachen University, Germany.  
 
 <!--
 **Yogesh-Rajput/Yogesh-Rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

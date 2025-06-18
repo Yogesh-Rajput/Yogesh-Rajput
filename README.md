@@ -9,7 +9,7 @@ I am an aspiring data analyst with a background in journalism and a master's deg
 - 🗃️ Database: SQL
 
 ## Projects ✨:
-- ### RAG application for document Review [↗️](https://github.com/Satpute-Aniket/Thesis)
+- ### Customer Data Cleaning [↗️](https://github.com/Yogesh-Rajput/Customer-List-Data-Cleaning)
 
   This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to reduce manual review time, and improve document analysis accuracy using RAG techniques. This project is part of my Master’s Thesis, where I developed a fine-tuned Retrieval-Augmented Generation (RAG) pipeline to automate and enhance the processing of Informed Consent Forms (ICFs) in clinical trials. The goal is to streamline regulatory compliance, reduce manual review time, and improve document analysis accuracy using cutting-edge Natural Language Processing (NLP) techniques.
 

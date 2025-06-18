@@ -17,7 +17,7 @@ I am an aspiring data analyst with a background in journalism and a master's deg
   
 - ### Exploratory Data Analysis of Festive Sales [↗️](https://github.com/Yogesh-Rajput/Diwali-Sales-EDA)
 
-  ![](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/90uxmh.gif)
+  ![top_products (1)](https://github.com/user-attachments/assets/e863e5ba-2755-4475-af76-a10c66d974b8)
 
   This project addresses the complex and NP-hard 3D Container Loading Problem, where the goal is to optimize the assignment and packing of items into containers while minimizing overall costs. Our team developed the solution using both exact and heuristic methods to tackle this problem, utilizing tools like Gurobi, Python, and various data visualization techniques. The project focuses on three key aspects: optimizing the spatial arrangement of items within containers, ensuring the feasibility of container transport to designated destinations, and reducing costs associated with the logistics process.
 

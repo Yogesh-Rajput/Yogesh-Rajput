@@ -1,11 +1,12 @@
-![](https://github.com/Satpute-Aniket/Satpute-Aniket/blob/main/github-header-image.png)
 
-I'm a passionate data scientist with a background in mechanical engineering and a master's degree in Data Analytics and Decision Science from RWTH Aachen University. My interests lie at the intersection of data, technology, and innovation. I love solving complex problems using machine learning, AI, and modern web technologies.
+
+I am an aspiring data analyst with a background in journalism and a master's degree in Data Analytics and Decision Science from RWTH Aachen University, Germany. I am passionate about generating insights from complex data to solve real-world problems. 
 
 ## Skills 🧰: 
-- 📊 Data Analysis & Visualization (Python, Pandas, Numpy, Tableau, Power BI, Seaborn)
-- 🧠 Machine Learning & AI (Scikit-Learn, LangChain)
-- 🗃️ Databases (SQL, vector DB) 
+- 📊 Data Analysis & Visualization: Python (pandas, numpy, seaborn, matplotlib)
+- 📈 Dashboarding: Power BI 
+- ⚙️ Optimization Model: Gurobi  
+- 🗃️ Database: SQL
 
 ## Projects ✨:
 - ### RAG application for document Review [↗️](https://github.com/Satpute-Aniket/Thesis)

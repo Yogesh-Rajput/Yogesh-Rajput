@@ -1,6 +1,6 @@
 ![ChatGPT Image Jun 18, 2025, 03_15_59 PM](https://github.com/user-attachments/assets/c4f7c5b5-9f59-4d4b-9c3b-f0b95b58e196)
 
-I am a data analyst with a background in journalism and a master's degree in Data Analytics and Decision Science from RWTH Aachen University, Germany. I am passionate about uncovering insights from complex data to solve real-world challenges. 
+I am a data analyst professional with a background in journalism and a master's degree in Data Analytics and Decision Science from RWTH Aachen University, Germany. I am passionate about uncovering insights from complex data to solve real-world challenges. 
 
 ## Skills 🧰: 
 - 📊 Data Analysis & Visualization: Python (pandas, numpy, seaborn, matplotlib)

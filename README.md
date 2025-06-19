@@ -22,14 +22,11 @@ I am a data analyst with a background in journalism and a master's degree in Dat
 
   This project involves exploratory data analysis of Diwali festival sales data. The aim is to analyze customer purchasing behavior during the festive season for gaining insights into marketing, sales, and customer segmentation. The raw sales data is cleaned and preprocessed before using it to analyze customer demographics (age, gender, marital status) and explore purchasing patterns across different regions and product categories. Further analysis is conducted on socio-economic purchasing trends and popular product categories. Finally, visualizations (bar plots, count plots) are created to support the findings.
 
-  Visualize insights using Seaborn and Matplotlib.
-🧩 Key Steps in the Notebook
-
   #### Technologies used 💻: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook, Heuristics, Data Analysis, Data Engineering, Python, Visual Studio Code.
 
 ## Contact 📫:
 - Email :email: : yogeshrajput@hotmail.com
-- If you find my profile interesting or have any queries, lets have a chat on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/aniketsatpute174/)
+- If you find my profile interesting, let's have a chat on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>]((https://www.linkedin.com/in/yrajput/))
 >[!Tip]
 >The Linkedin logo is clickable!
     

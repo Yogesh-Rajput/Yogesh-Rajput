@@ -31,6 +31,6 @@ I am a data analyst with a background in journalism and a master's degree in Dat
 >The Linkedin logo is clickable!
     
 >[!IMPORTANT]
->I am currently looking for a job and if you like what you see and find my skills and resources useful do not hesitate to reach out to me via LinkedIN or E-mail for further discussions.
+>I am currently looking for a job -- if you like my profile and work, feel free to contact me via LinkedIn or e-mail for a discussion.
 >Thank you!
->  Link to my [Resume](pdf). 
+>Link to my [CV](pdf). 

@@ -1,4 +1,4 @@
-![Data Cleaning Transformation](./data_cleaning_transformation_final.gif)
+![ChatGPT Image Jun 18, 2025, 03_15_59 PM](https://github.com/user-attachments/assets/c4f7c5b5-9f59-4d4b-9c3b-f0b95b58e196)
 
 I am a data analyst with a background in journalism and a master's degree in Data Analytics and Decision Science from RWTH Aachen University, Germany. I am passionate about uncovering insights from complex data to solve real-world challenges. 
 
@@ -12,6 +12,8 @@ I am a data analyst with a background in journalism and a master's degree in Dat
 - ### Customer Data Cleaning [↗️](https://github.com/Yogesh-Rajput/Customer-List-Data-Cleaning)
 
   This project demonstrates a simple yet practical example of data cleaning using Python and pandas library. The dataset contains customer details that are cleaned and preprocessed to prepare for future marketing and analytics applications. A messy dataset is first cleaned and standardized by removing duplicate entries, applying uniform formatting, and handling missing values. The final output is ready to use for CRM integration, visualization and similar tasks.
+
+![Data Cleaning Transformation](./data_cleaning_transformation_final.gif)
 
   #### Technologies used 💻: Python, Pandas, Jupyter Notebook
   

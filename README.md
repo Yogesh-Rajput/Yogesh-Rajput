@@ -11,9 +11,9 @@ I am a data analyst with a background in journalism and a master's degree in Dat
 ## Projects ✨:
 - ### Customer Data Cleaning [↗️](https://github.com/Yogesh-Rajput/Customer-List-Data-Cleaning)
 
-  This project demonstrates a simple yet practical example of data cleaning using Python and pandas library. The dataset contains customer details that are cleaned and preprocessed to prepare for future marketing and analytics applications. A messy dataset is first cleaned and standardized by removing duplicate entries, applying uniform formatting, and handling missing values. The final output is ready to use for CRM integration, visualization and similar tasks.
-
 ![data_cleaning_transformation_no_contact](https://github.com/user-attachments/assets/73b0b81c-404b-4153-8a70-2ec06f4f11ea)
+
+  This project demonstrates a simple yet practical example of data cleaning using Python and pandas library. The dataset contains customer details that are cleaned and preprocessed to prepare for future marketing and analytics applications. A messy dataset is first cleaned and standardized by removing duplicate entries, applying uniform formatting, and handling missing values. The final output is ready to use for CRM integration, visualization and similar tasks.
 
   #### Technologies used 💻: Python, Pandas, Jupyter Notebook
   

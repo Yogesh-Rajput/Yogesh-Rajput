@@ -30,7 +30,5 @@ I am a data analyst professional with a background in journalism and a master's 
 >[!Tip]
 >The Linkedin logo is clickable!
     
->[!IMPORTANT]
->I am currently looking for a job -- if you like my profile and work, feel free to contact me via LinkedIn or e-mail for a discussion.
+>If you like my profile and work, feel free to contact me via LinkedIn or e-mail for a discussion.
 >Thank you!
->Link to my [CV](https://github.com/Yogesh-Rajput/Yogesh-Rajput/blob/main/CV_Yogesh%20Rajput.pdf). 

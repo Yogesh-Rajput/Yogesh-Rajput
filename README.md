@@ -30,5 +30,5 @@ I am a data analyst professional with a background in journalism and a master's 
 >[!Tip]
 >The Linkedin logo is clickable!
     
->[!End Note] If you like my profile, feel free to contact me via LinkedIn or e-mail for a chat :)
+>If you like my profile, feel free to contact me via LinkedIn or e-mail for a chat :)
 >Thank you!

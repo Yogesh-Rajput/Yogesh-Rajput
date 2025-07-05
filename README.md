@@ -26,7 +26,7 @@ I am a data analyst professional with a background in journalism and a master's 
 
 ## Contact 📫:
 - Email :email: : yogeshrajput@hotmail.com
-- If you find my profile interesting, let's have a chat on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='2'>](https://www.linkedin.com/in/yrajput/)
+- LinkedIn: https://www.linkedin.com/in/yrajput/
 >[!Tip]
 >The Linkedin logo is clickable!
 >Thank you!

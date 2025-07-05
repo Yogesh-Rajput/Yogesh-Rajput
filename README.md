@@ -26,6 +26,4 @@ I am a data analyst professional with a background in journalism and a master's 
 
 ## Contact 📫:
 - Email :email: : yogeshrajput@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/yrajput/
-  
->Thank you!
+- LinkedIn: linkedin.com/in/yrajput/

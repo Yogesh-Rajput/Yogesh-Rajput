@@ -29,6 +29,4 @@ I am a data analyst professional with a background in journalism and a master's 
 - If you find my profile interesting, let's have a chat on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='2'>](https://www.linkedin.com/in/yrajput/)
 >[!Tip]
 >The Linkedin logo is clickable!
-
->If you like my profile, feel free to contact me via LinkedIn or e-mail for a chat :)
 >Thank you!
